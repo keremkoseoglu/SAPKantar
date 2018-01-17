@@ -1,0 +1,9 @@
+bin\Debug\SAPKantar.dll
+bin\Debug\SAPKantar.pdb
+D:\Development\Sunjut\SAPKantar\SAPKantar\bin\Debug\SAPKantar.tlb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SAPKantar.Kantar.resources
+obj\Debug\SAPKantar.Properties.Resources.resources
+obj\Debug\SAPKantar.csproj.GenerateResource.Cache
+obj\Debug\SAPKantar.dll
+obj\Debug\SAPKantar.pdb

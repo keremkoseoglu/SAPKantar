@@ -1,0 +1,10 @@
+D:\Development\Sunjut\SAPKantar\SAPKantarTestApp\bin\Debug\SAPKantarTestApp.exe
+D:\Development\Sunjut\SAPKantar\SAPKantarTestApp\bin\Debug\SAPKantarTestApp.pdb
+D:\Development\Sunjut\SAPKantar\SAPKantarTestApp\bin\Debug\SAPKantar.dll
+D:\Development\Sunjut\SAPKantar\SAPKantarTestApp\bin\Debug\SAPKantar.pdb
+D:\Development\Sunjut\SAPKantar\SAPKantarTestApp\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\Sunjut\SAPKantar\SAPKantarTestApp\obj\Debug\SAPKantarTestApp.Form1.resources
+D:\Development\Sunjut\SAPKantar\SAPKantarTestApp\obj\Debug\SAPKantarTestApp.Properties.Resources.resources
+D:\Development\Sunjut\SAPKantar\SAPKantarTestApp\obj\Debug\SAPKantarTestApp.csproj.GenerateResource.Cache
+D:\Development\Sunjut\SAPKantar\SAPKantarTestApp\obj\Debug\SAPKantarTestApp.exe
+D:\Development\Sunjut\SAPKantar\SAPKantarTestApp\obj\Debug\SAPKantarTestApp.pdb
